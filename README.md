@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Wahyu Noufarizam 👋
+
+![Wahyu Noufarizam](img/Gemini_Generated_Image_bo984ebo984ebo98.png)
 
 <!--
 **Akbarrizam/Akbarrizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **Dicoding**
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework and React Native
+- 😁😁😁😁
+
+![Hey There](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lvZTlyMmM5b3diemgwbGoyMGxnMTJ1ZnltOW9lemxhdnQzMnV0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)
