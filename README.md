@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework and React Native,
 - 😁😁😁😁
 ##### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,python,laravel&theme=light&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,python,laravel&theme=light&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
