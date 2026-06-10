@@ -70,6 +70,19 @@ Here are some ideas to get you started:
 
 
 
+##### 
+<h1 align="left">Play game</h1>
 
+###
 
-![Hey There](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lvZTlyMmM5b3diemgwbGoyMGxnMTJ1ZnltOW9lemxhdnQzMnV0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akbarrizam/Akbarrizam/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akbarrizam/Akbarrizam/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akbarrizam/Akbarrizam/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Akbarrizam/Akbarrizam/snake-output/snake.svg" alt="Snake animation" />
+
+###
