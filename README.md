@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework and React Native,
 - 😁😁😁😁
 ##### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,python,laravel&theme=light&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,python,laravel)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" />
-<img src="" />
 
 ##### Connect with me
 ![https://instagram.com/wahyurzm_a](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@rizmanxx](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![www.linkedin.com/in/wahyuakbar30a2b9381](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
