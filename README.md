@@ -1,6 +1,6 @@
 ## Hello World! I'm Wahyu Noufarizam 👋
 
-![Wahyu Noufarizam](img/github-header-banner.png)
+![Wahyu Noufarizam](img/github-header-banner%20(1).png)
 
 <!--
 **Akbarrizam/Akbarrizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
