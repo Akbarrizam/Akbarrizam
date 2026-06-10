@@ -1,6 +1,6 @@
 ## Hello World! I'm Wahyu Noufarizam 👋
 
-![Wahyu Noufarizam](img/Gemini_Generated_Image_bo984ebo984ebo98.png)
+![Wahyu Noufarizam](img/Gemini_Generated_Image_lkjt4dlkjt4dlkjt.png)
 
 <!--
 **Akbarrizam/Akbarrizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
