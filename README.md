@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **Dicoding**
+- 🔭 I’m currently working in **Full Stack Developer**
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework and React Native,
 - 😁😁😁😁
 ##### Skills
